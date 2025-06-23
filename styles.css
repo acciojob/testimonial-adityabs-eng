@@ -7,12 +7,6 @@
 	text-decoration:underline antiquewhite;
 }
 
-.container>p{
-	font-size:30px;
-	font-family:activeborder;
-	font-weight:bold;
-}
-
 .testimonial-container{
 	background-color:white;
 	border:5px solid antiquewhite ;
