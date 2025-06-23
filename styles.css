@@ -1,1 +1,27 @@
 /*  your css code here. If applicable */
+.container{
+	border:1px solid grey;
+	padding:30px 25px;
+	background-color:#f5f5f5;
+	border-radius:20px;
+	text-decoration:underline antiquewhite;
+}
+
+.container>p{
+	font-size:30px;
+	font-family:activeborder;
+	font-weight:bold;
+}
+
+.testimonial-container{
+	background-color:white;
+	border:5px solid antiquewhite ;
+	padding:7px; 
+	margin-bottom:10px;
+}
+
+.author{
+	text-align:right;
+	font-style:italic;
+	font-weight:bold;
+}
